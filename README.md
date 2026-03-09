@@ -19,6 +19,6 @@ The model was trained for 100 epochs. Despite a limited training set (140 images
 # Observations / Current Limitations
 The current model works best when the duckies appears to be in motion but not when stationary and is better at detecting obects close by and not far away. The biggest limitation is the small dataset and I will be using more for training next time allong with some augmentation for better results
 
-# link to dataset
+# link to dataset and output
 https://drive.google.com/drive/u/0/folders/10ywTOSWbLAqYamevZS1HSksRhYawc8wB
 
